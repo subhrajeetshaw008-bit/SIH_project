@@ -11,3 +11,4 @@ mistralai
 python-dotenv
 tavily-python
 google-genai
+streamlit-geolocation
